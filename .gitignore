@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Desktop Services Store that saves preferences for each user 
+**/.DS_Store
